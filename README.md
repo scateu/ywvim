@@ -1,4 +1,4 @@
-A mirror of ywvim script. 
+# A mirror of ywvim script
 
 ywvim 是一个 vim 里的五笔输入法。
 
