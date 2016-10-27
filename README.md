@@ -10,6 +10,8 @@ ywvim 是一个 vim 里的五笔输入法。
 
 ## Install
 
+需要有 [Vim packages](http://vimhelp.appspot.com/repeat.txt.html#packages) (since Vim 7.4.1528)
+
     git clone https://github.com/scateu/ywvim ~/.vim/pack/plugins/start/ywvim
 
 
